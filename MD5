@@ -1,4 +1,4 @@
-fa191a0726381f5441b3545d001d6dd1 *DESCRIPTION
+1988054aa428cb728ccd0d46843ba482 *DESCRIPTION
 6f2ea6312f31d8152311207716febde0 *NAMESPACE
 6ad5005f6f86764b788b8d583ec552b9 *R/GrowingSOM-internal.R
 8c04572e63a8bda0047f71154ce90a1e *R/grow.gsom.r
@@ -11,7 +11,7 @@ dd9acb6d2ac9ee9818e9f233f63e745f *R/plot.gsom.r
 9ffb9165043d35581c66c256d468039b *R/summary.gsom.r
 286c46e5104c72f5ad5042a4953ef6e6 *R/train.gsom.r
 11d299a7c12d8e2ad2cba621a6359179 *R/train_xy.gsom.r
-624fbe12809cfbaebba42e17be30d43d *build/partial.rdb
+7e6f49af27581292b52ccb3d0c77f8dd *build/partial.rdb
 1a2c42fecef7377779fb88dff4c76a06 *data/auto_mpg.RData
 dca332a47d0cf21d231784836259dc3d *man/GrowingSOM.Rd
 52b9054f565cdd9e7c86e1d17963bc56 *man/auto_mpg.Rd
@@ -22,5 +22,5 @@ c8c030a43aad6be431e49ee953d14537 *man/map.gsom.Rd
 d9799d0807a4b1f5a8dffc18507468e4 *man/train.gsom.Rd
 2bf70b90dc9c4217ab62582a2d695bb5 *man/train_xy.gsom.Rd
 b51de2c697655b65d69471ce752efbdc *src/map.c
-a318e63684d75561e8d25f837af413f8 *src/trainloop.c
-d1e1872ac6bfdaf83e25fa273e8cc58b *src/trainloop_xy.c
+76ac076187c3dc90f0da9c5df97c0148 *src/trainloop.c
+84bfd081b423cde8b7bb85b9e04d5355 *src/trainloop_xy.c
